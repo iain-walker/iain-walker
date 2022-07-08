@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @iain-walker
-- 👀 I’m interested in learning some Frameworks such as Django
-- 🌱 I’m currently learning Golang
+- 👀 I’m interested in learning some Frameworks such as Django, React, NodeJS
+- 🌱 I’m currently learning Golang, Javascript & Python
 - 💞️ I’m looking to collaborate on anything that appeals
 - 📫 How to reach me daretobethebest@pm.me
 
